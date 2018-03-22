@@ -1,0 +1,14 @@
+canvas {
+	display: block;
+	margin: auto;
+}
+
+p {
+	text-align: center;
+	font-size: 10px;
+	font-family: "verdana";
+}
+
+body {
+	background: #808080;
+}
