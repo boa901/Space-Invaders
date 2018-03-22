@@ -1,3 +1,4 @@
+//This program uses the Jaws.js API, which can be found at http://jawsjs.com/
 var FPS_LOCK = 59.99; //60 reverts to V-Sync, which makes the game too fast on 144hz monitors
 var score;
 var SCOREBOARD_DIGITS = 5; //Make sure digits is large enough to accomodate for the player score on kill
